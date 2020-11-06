@@ -23,7 +23,7 @@ const int max_value = 255;
 const String window_capture_name = "Video";
 const String window_detection_name = "Mask";
 int low_H = 0, low_S = 22, low_V = 109;
-int high_H = 28, high_S = 158, high_V = 210;
+int high_H = 28, high_S = 158, high_V = 209;
 
 
 
