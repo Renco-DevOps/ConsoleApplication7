@@ -1,0 +1,22 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Renco\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(164,65): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Renco\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(164,38): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Renco\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(181,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Renco\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(181,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ConsoleApplication7.vcxproj -> C:\Users\Renco\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
